@@ -88,7 +88,7 @@ export default function App() {
             <div>
               <div className="flex items-center gap-1.5">
                 <span className="font-extrabold font-hud tracking-wider text-xl text-white">
-                  CHEM<span className="text-cyan-400">VERSE</span>
+                  KIM<span className="text-cyan-400">YO</span>
                 </span>
                 <span className="text-[10px] font-mono uppercase px-1.5 py-0.5 rounded bg-cyan-500/15 text-cyan-300 border border-cyan-500/30">
                   KOLBA · STAKAN · PROBIRKA
