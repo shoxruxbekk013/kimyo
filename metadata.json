@@ -1,0 +1,6 @@
+{
+  "name": "CHEMVERSE — The Future of Chemistry",
+  "description": "Futuristik kimyo olami: 118 ta element davriy jadvali, 3D molekulalar, virtual laboratoriya, kimyoviy kalkulyatorlar va CHEM AI tadqiqot yordamchisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
